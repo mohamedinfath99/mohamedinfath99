@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka.</h3>
 <br />
 
-![Profile views](https://gpvc.arturio.dev/mohamedinfath99)  
 
 <br />
 <br />
