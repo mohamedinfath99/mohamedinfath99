@@ -24,7 +24,7 @@
 ---
 
 # 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedinfath99)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedinfath99/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20399450) [![My Website](https://img.shields.io/badge/Website-%231a202c.svg?logo=Google-Chrome&logoColor=white)](https://mohamedinfath99.github.io/portfolio/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedinfath99)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedinfath99/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20399450) [![My Website](https://img.shields.io/badge/Website-%231a202c.svg?logo=Google-Chrome&logoColor=white)](https://mohamedinfath99.github.io)
 
 
 ---
