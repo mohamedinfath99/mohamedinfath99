@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer from Sri Lanka.</h3>
 <br/>
 
-<p align= "center">I am a final-year undergraduate student at ICBT with robust problem-solving skills. Over the course of my studies, I have developed strong leadership skills, enjoy collaboration and teamwork and have good communication skills. I'm interested in learning more about new technology. In addition, I am the type of person who would never pass up even a minor opportunity. As a result, whenever I get the opportunity, I will take advantage of it, and I will learn from my failures in order to improve my future successes. </p>
+<p align="center">I have completed my academic requirements at ICBT, including my final project, and I'm currently awaiting my official graduation. Throughout my academic journey, I've honed my leadership skills, embraced collaboration, and excelled in teamwork. With one year of valuable working experience, I'm passionate about staying updated with the latest technology trends and continuously expanding my knowledge. I thrive on seizing every opportunity that comes my way, learning from my experiences, and using those lessons to enhance my future successes.</p>
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 # 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedinfath99)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedinfath99/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20399450) [![My Website](https://img.shields.io/badge/Website-%231a202c.svg?logo=Google-Chrome&logoColor=white)](https://mohamedinfath99.github.io)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamedinfath99)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20399450) [![My Website](https://img.shields.io/badge/Website-%231a202c.svg?logo=Google-Chrome&logoColor=white)](https://mohamedinfath99.github.io)
 
 
 ---
