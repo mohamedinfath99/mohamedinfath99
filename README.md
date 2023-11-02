@@ -11,7 +11,7 @@
 
 <br />
 
-🔭 I’m currently working on - Software Engineer Intern
+🔭 I’m currently working as - Associate Software Engineer
 
 🌱 I’m currently learning something - New
 
@@ -19,7 +19,7 @@
 
 💬 Ask me about - MERN Stack
 
-📫 Reach me to - mohamedinfath99@gmail.com
+📫 Reach me at - mohamedinfath99@gmail.com
 
 ---
 
