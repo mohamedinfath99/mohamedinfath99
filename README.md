@@ -13,7 +13,7 @@
 
 🔭 I’m currently working as - Associate Software Engineer
 
-🌱 I’m currently learning something - New
+🌱 I’m currently learning something - Next.js
 
 👯 I'm looking to collaborate with any - Open-Source Project
 
