@@ -104,6 +104,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedinfath99&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
----
-
-<p align= "center"> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. <p/>
