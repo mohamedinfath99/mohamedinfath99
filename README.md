@@ -11,7 +11,7 @@
 
 <br />
 
-🔭 I’m currently working as - Associate Software Engineer
+🔭 I’m currently working as - Associate Software Engineer.
 
 🌱 I’m currently learning something - Next.js
 
