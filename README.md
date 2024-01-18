@@ -17,8 +17,9 @@ Passionate Software Engineer dedicated to driving innovation and delivering impa
 
 <br/>
 
-## 🌐 Connect with Me :
+## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836?logo=gmail&logoColor=white)](mailto:mohamedinfath99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedinfath99)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20399450)
 [![My Website](https://img.shields.io/badge/Website-%231a202c.svg?logo=Google-Chrome&logoColor=white)](https://mohamedinfath99.github.io)
 
