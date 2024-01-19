@@ -9,7 +9,7 @@ Passionate Software Engineer dedicated to driving innovation and delivering impa
 
 🔭 I’m currently working on: Exciting projects at CodzBee (Pvt) Ltd.
 
-🌱 I’m currently learning: Next.js & AWS
+🌱 I’m currently learning: AWS
 
 💬 Ask me about: MERN Stack
 
