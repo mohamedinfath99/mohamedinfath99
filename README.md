@@ -1,19 +1,27 @@
 [![](https://visitcount.itsvg.in/api?id=mohamedinfath99&icon=0&color=2)](https://visitcount.itsvg.in)
 
-# Hi, I'm Rafeek Mohamed Infath 🧑‍💻
+# Hi there! 👋 I'm Rafeek Mohamed Infath 🧑‍💻
 
-<br/>
 
-## 👤 About Me :
-Passionate Software Engineer dedicated to driving innovation and delivering impactful solutions. With a strong foundation in the MERN stack and over a year of professional experience, I have expanded my expertise to include Next.js, staying at the forefront of cutting-edge technologies. Proving successful in crafting efficient, user-centric solutions has demonstrated my commitment to excellence. I have been eager to contribute my skills and enthusiasm to forward-thinking tech teams, and I am excited about shaping the future of technology in my current role. Let's connect and explore opportunities for collaborative success 🚀
+## 🚀 About Me 
+I'm a passionate Full Stack Software Engineer dedicated to driving innovation and delivering impactful solutions. My primary objective is to leverage my expertise in Full Stack development to contribute to the success of businesses in today's dynamic digital landscape.
 
-🔭 I’m currently working on: Exciting projects at CodzBee (Pvt) Ltd.
 
-🌱 I’m currently learning: AWS
+## 🌐 Expertise 
+With extensive experience as a seasoned Full Stack Software Engineer, I've adeptly integrated frontend and backend technologies across a diverse spectrum of projects. I specialize in:
+- Building captivating user interfaces with Next.js and React.js on the frontend.
+- Implementing strong server-side logic with Node.js and Express.js.
+- Proficient in MongoDB for efficient data management.
+- Skilled in Docker and AWS for scalable deployments.
+- Experience in CI/CD pipelines for streamlining workflows and ensuring efficient project delivery.
 
-💬 Ask me about: MERN Stack
 
-📫 Reach me at: [mohamedinfath99@gmail.com](mailto:mohamedinfath99@gmail.com)
+## 💼 Experience 
+I've successfully delivered user-centric applications by seamlessly integrating frontend and backend components, resulting in intuitive and robust software solutions. My expertise lies in architecting scalable backend systems and crafting visually appealing user interfaces, enhancing the overall user experience.
+
+
+## 🌱 Continuous Learning 
+I am dedicated to continuous learning and growth, staying updated with the latest tools and technologies to deliver innovative solutions that meet evolving industry demands.
 
 <br/>
 
