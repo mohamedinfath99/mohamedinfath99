@@ -90,8 +90,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-
 <br/>
 
 ## 📊 *GitHub Stats :*
@@ -104,7 +102,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedinfath99&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br />
-<br />
-<br />
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="water background"></p>
