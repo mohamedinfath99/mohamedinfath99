@@ -102,4 +102,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedinfath99&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+## 📌 *Important Note :*
+*If you notice periods where there are no contributions on my GitHub, please don't interpret it as a lack of activity or motivation. I am actively working on various projects, some of which may be hosted on other platforms like GitLab or within my company’s private repositories. Contributions may not always be visible due to project privacy or platform preferences. Rest assured, I am consistently evolving my skills and delivering quality solutions behind the scenes.*
+
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="water background"></p>
