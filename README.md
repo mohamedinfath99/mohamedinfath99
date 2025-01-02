@@ -92,18 +92,6 @@
 
 <br/>
 
-## 📊 *GitHub Stats :*
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedinfath99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedinfath99&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedinfath99&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 📌 *Important Note :*
 *If you notice periods where there are no contributions on my GitHub, please don't interpret it as a lack of activity or motivation. I am actively working on various projects, some of which may be hosted on other platforms like GitLab or within my company’s private repositories. Contributions may not always be visible due to project privacy or platform preferences. Rest assured, I am consistently evolving my skills and delivering quality solutions behind the scenes.*
 
