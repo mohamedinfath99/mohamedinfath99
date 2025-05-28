@@ -1,12 +1,11 @@
-
-[![](https://visitcount.itsvg.in/api?id=mohamedinfath99&icon=0&color=2)](https://visitcount.itsvg.in)
-
 #  🧑‍💻 *Rafeek Mohamed Infath* 
 
+<br/>
 
 ## 🚀 *About Me* 
 *I'm a passionate Full Stack Software Engineer dedicated to driving innovation and delivering impactful solutions. My primary objective is to leverage my expertise in Full Stack development to contribute to the success of businesses in today's dynamic digital landscape.*
 
+<br/>
 
 ## 🌐 *Expertise* 
 *With extensive experience as a seasoned Full Stack Software Engineer, I've adeptly integrated frontend and backend technologies across a diverse spectrum of projects. I specialize in:*
@@ -16,10 +15,12 @@
 - *Skilled in Docker and AWS for scalable deployments.*
 - *Experience in CI/CD pipelines for streamlining workflows and ensuring efficient project delivery.*
 
+<br/>
 
 ## 💼 *Experience* 
 *I've successfully delivered user-centric applications by seamlessly integrating frontend and backend components, resulting in intuitive and robust software solutions. My expertise lies in architecting scalable backend systems and crafting visually appealing user interfaces, enhancing the overall user experience.*
 
+<br/>
 
 ## 🌱 *Continuous Learning* 
 *I am dedicated to continuous learning and growth, staying updated with the latest tools and technologies to deliver innovative solutions that meet evolving industry demands.*
