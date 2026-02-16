@@ -36,4 +36,4 @@
 <br/>
 
 ## 📌 *Important Note :*
-*If you notice periods where there are no contributions on my GitHub, please don't interpret it as a lack of activity or motivation. I am actively working on various projects, some of which may be hosted on other platforms like GitLab or within my company’s private repositories. Contributions may not always be visible due to project privacy or platform preferences. Rest assured, I am consistently evolving my skills and delivering quality solutions behind the scenes.*
+***If you notice periods where there are no contributions on my GitHub, please don't interpret it as a lack of activity or motivation. I am actively working on various projects, some of which may be hosted on other platforms like GitLab or within my company’s private repositories. Contributions may not always be visible due to project privacy or platform preferences. Rest assured, I am consistently evolving my skills and delivering quality solutions behind the scenes.***
